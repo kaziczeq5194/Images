@@ -26,4 +26,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for important guidelines to follo
 Links
 -----
 
-* [Visit our plugin page](https://www.spigotmc.org/resources/custom-images.53036/) 
+* [Visit our plugin page](https://www.spigotmc.org/resources/custom-images.53036/)
